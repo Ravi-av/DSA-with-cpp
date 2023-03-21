@@ -16,6 +16,6 @@ int main()
             j = j + 1;
         }
         cout << endl;
-        i = i + 1;
+        i = i + 1; 
     }
 }
