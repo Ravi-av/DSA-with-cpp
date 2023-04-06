@@ -12,3 +12,4 @@ int main(){
     int b=1;
     cout<<b<<endl;
 
+}
